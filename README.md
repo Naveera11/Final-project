@@ -14,7 +14,3 @@ It includes all required files:
 This project is created to demonstrate understanding of GitHub UI and Git CLI tasks as part of the final submission for the course.
 
 Thanks for reviewing!
-
-<!-- This is a test merge for screenshot -->
-
-
